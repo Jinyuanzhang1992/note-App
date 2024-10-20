@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="app_icon">App Icon</string>
+    <string name="note_label_title">Title</string>
+    <string name="note_label_description">Content</string>
+    <string name="note_button_save">Save</string>
+    <string name="notes_list">Note List</string>
+    <string name="note_button_update">Update</string>
+</resources>
